@@ -1,0 +1,12 @@
+body {
+    font-family: Helvetica, Arial, Sans-Serif;
+    background-color: #FFE4C4;
+  }
+  img {
+    border-radius: 50%;
+  }
+  h1 {
+    font-size: 80px;
+    font-weight: bolder;
+  
+  }
